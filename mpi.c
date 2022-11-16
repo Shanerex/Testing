@@ -1,3 +1,7 @@
+//sudo apt install mpich
+//mpicc -g -Wall -o output filename.c
+//mpiexec -n <no of processes> ./output
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> /* for debugging */

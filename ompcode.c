@@ -1,3 +1,7 @@
+//sudo apt install libomp-dev
+//gcc -fopenmp filename.c
+//./a.out
+
 #include<omp.h>
 #include<stdio.h>
 #include<pthread.h>
