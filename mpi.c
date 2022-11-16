@@ -55,7 +55,7 @@ int main(int argc, char* argv[]) {
 
 /*---------------------------------------------------------------------
  * Function:  Read_matrix
- * Purpose:   Read in the local_matrix on process 0 and scatter it using a 
+ * Purpose:   Read in the local_ma`trix on process 0 and scatter it using a 
  *            block row distribution among the processes.
  * In args:   All except local_mat
  * Out arg:   local_mat
